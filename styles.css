@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+h1, h2 {
+    color: mediumspringgreen;
+}
+body {
+    font-family: montserrat, arial, sans-serif;
+    text-align: center;
+    background-color: navy;
+    color:powderblue;
+}
+
+table {
+    table-layout: auto;
+    border: 3px solid mediumspringgreen;
+    width: 850px;
+    margin: 0 auto;
+    border-collapse: separate;
+}
+
+th, td {
+    border: 1px solid dodgerblue;
+    height: 2em;
+}
+.tags {
+    font-family: monospace;
+    background-color: greenyellow;
+    color: navy;
+}
+
+th {
+    background-color: mediumblue;
+}
+
+
